@@ -1,4 +1,4 @@
-# analisis.explorativo.de.pinguinos
+# analisis.exploratorio.de.pinguinos
 Voy a realizar un análisis exploratorio de datos (EDA) sobre el dataset Palmer Penguins, utilizando un enfoque híbrido que combina herramientas de visualización tradicionales con programación en Python. El dataset contiene información morfométrica de 344 especímenes de tres especies de pingüinos (Pygoscelis adeliae, P. antarcticus, P. papua) recolectados en el archipiélago Palmer, Antártida.
 Las variables incluyen medidas biométricas (longitud y profundidad del culmen, longitud de aleta, masa corporal), metadata taxonómica (especie, sexo) y datos de muestreo (isla, año). Mi objetivo es identificar patrones inter e intraespecíficos, correlaciones morfométricas y distribuciones geográficas.
 La metodología combina análisis visual inmediato con desarrollo progresivo de habilidades de programación, maximizando tanto el aprendizaje como los resultados tangibles.
